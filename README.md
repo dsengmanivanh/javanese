@@ -2,4 +2,4 @@
 
 ## Javanese
 
-Translate a sentence on javanese
+Translate a sentence into javanese
